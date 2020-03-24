@@ -1,2 +1,2 @@
-## Project Name:  bisakhmondal.githib.io
+## Project Name:  bisakhmondal.github.io
 visit http://bisakh..com
